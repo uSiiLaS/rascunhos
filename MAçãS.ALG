@@ -1,24 +1,24 @@
-Algoritmo "Maçãs"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "MaÃ§Ã£s"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 28/08/2023
 Var
-   // Seção de Declarações das variáveis
-   // Quantidade de maçãs = M
-   //Valor total = T
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
+   // Quantidade de maÃ§Ã£s = M
+   //Valor total = VT
    M: real
    VT: real
 Inicio
    //coletando dados
-   escreval("Insira a quantidade de maçãs compradas: ")
+   escreval("Insira a quantidade de maÃ§Ã£s compradas: ")
    leia(M)
 
    limpatela
 
    //informando dados
-   escreval("Quantidade de maçãs: ", M)
+   escreval("Quantidade de maÃ§Ã£s: ", M)
 
    //condicional
    se(M < 12) entao
